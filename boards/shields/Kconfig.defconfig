@@ -1,0 +1,4 @@
+config ZMK_KEYBOARD_NAME
+    default "F.MAN"
+
+CONFIG_ZMK_BLE_CLEAR_BONDS_ON_START y
